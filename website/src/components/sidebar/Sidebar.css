@@ -1,0 +1,16 @@
+.mainclass {
+  background-color: #ebecf0;
+}
+
+.item {
+  list-style-type: none;
+}
+
+.listitems {
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.listitems:hover {
+  background-color: #d3d3d3;
+}
